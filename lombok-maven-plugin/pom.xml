@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.projectlombok</groupId>
+    <groupId>com.walterjwhite.org.projectlombok</groupId>
     <artifactId>lombok-maven</artifactId>
     <version>1.18.30</version>
   </parent>
